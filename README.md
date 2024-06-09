@@ -1,4 +1,7 @@
 # Age-Chronicle
+
+
+
 Welcome to Age Wizard, an interactive age calculator that allows you to determine the exact age based on a provided date of birth. Whether you're curious about your own age or need to calculate someone else's, Age Wizard has got you covered!
 
 Features
